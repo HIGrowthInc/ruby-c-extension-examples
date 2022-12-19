@@ -1,0 +1,23 @@
+.DS_STORE
+
+Debug (*.*)/
+Release (*.*)/
+
+*.vcxproj.user
+*.opensdf
+*.sdf
+*.suo
+ipch/
+*.VC.*
+.vs/
+
+xcuserdata/
+/ci-build/
+
+*.sublime-workspace
+
+C-Examples
+SUEX_UsingSWIG/src/Swig_output.*
+Debug/
+Release/
+!ThirdParty/bin/win32/swig/*.*
